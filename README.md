@@ -1,6 +1,10 @@
+# Showcase
+
+[![Showcase gif](./showcase.gif)](./showcase.mp4)
+
 # Why?
 
-At the time of writing, 12.04.2024 (dd.MM.yyyy), it's kinda hard to configure [ort](https://github.com/pykeio/ort) and [opencv-rust](twistedfall/opencv-rust/) inside one rust project. This repo serves as a guide/starter to save you precious time debugging! [There is even an issue saying that this is impossible lol.](https://github.com/pykeio/ort/issues/145)
+At the time of writing, 12.04.2024 <sup>(dd.MM.yyyy)</sup>, it's kinda hard to configure [ort](https://github.com/pykeio/ort) and [opencv-rust](twistedfall/opencv-rust/) inside one Rust project. This repo serves as a guide/starter to save you precious time debugging! [There is even an issue saying that this is impossible lol.](https://github.com/pykeio/ort/issues/145)
 
 # Setup
 
