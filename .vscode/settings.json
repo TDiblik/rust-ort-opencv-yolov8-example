@@ -1,0 +1,6 @@
+{
+  "rust-analyzer.cargo.extraEnv": {
+    "OPENCV_LINK_LIBS": "opencv_world490",
+    "OPENCV_MSVC_CRT": "static"
+  }
+}

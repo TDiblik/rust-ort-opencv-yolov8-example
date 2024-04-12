@@ -1,0 +1,13 @@
+[package]
+name = "rust_ort_opencv_yolov8_example"
+version = "0.0.1"
+edition = "2021"
+description = "An example and setup guide on how to get ort and opencv-rust working together. I've tested this on both Linux and Windows."
+authors = ["Tomáš Diblík <dibla.tomas@post.cz>"]
+license-file = "./LICENSE"
+
+[dependencies]
+anyhow = "1.0.82"
+ort = "2.0.0-rc.1"
+opencv = "0.89.0"
+ndarray = "0.15.6"
